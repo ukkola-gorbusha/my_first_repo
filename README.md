@@ -1,1 +1,3 @@
-"# Cоздали my_first_repo" 
+# Cоздали my_first_repo
+
+Добавили текст
